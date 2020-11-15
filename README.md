@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ---
 ### Connect
-https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white
+[<img align='left' alt='email' src='https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white'>][BLog]
 https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
 https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white
 
