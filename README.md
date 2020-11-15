@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 [<img align='left' alt='email' src='https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white'>](mailto:mikelhsia@hotmail.com)
 [<img align='left' alt='linkedIn' src='https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white'>](https://www.linkedin.com/in/tsu-yu-hsia-00743021/)
 [<img align='left' alt='linkedIn' src='https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white'>](https://github.com/mikelhsia)
-
+[Michael's Blog](https://mikelhsia.github.io/)
 
