@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
----
+
 ### Tech Stack
 <div float='left'>
 <img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
@@ -30,9 +30,8 @@ Here are some ideas to get you started:
 <img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 </div>
-<div float='None'></div>
 
----
+
 ### Latest blog posts
 - [【How 2】 Vol. 2. How to build an automated stock trading script](https://mikelhsia.github.io/2020/11/10/2020-11-08-macd-strategy-implementation/#more)
 - [【How 2】 Vol. 1. How 2 get all tradable tickers in US markets](https://mikelhsia.github.io/2020/10/19/2020-10-19-get-all-tradable-tickers/#more)
@@ -40,7 +39,8 @@ Here are some ideas to get you started:
 - [An investment strategy that takes you three days a year](https://mikelhsia.github.io/2020/08/21/2020-08-21-magic-formula-vs-Acquirer-Multiples/#more)
 
 ... [more blog posts](https://mikelhsia.github.io/)
----
+
+
 ### Connect
 [<img align='left' alt='email' src='https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white'>](mailto:mikelhsia@hotmail.com)
 [<img align='left' alt='linkedIn' src='https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white'>](https://www.linkedin.com/in/tsu-yu-hsia-00743021/)
