@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-**mikelhsia/mikelhsia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mikelhsia/mikelhsia** 
+
+[![Michael's github stats](https://github-readme-stats.vercel.app/api?username=mikelhsia)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
@@ -28,6 +30,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 </div>
+<div float='None'></div>
 
 ---
 ### Latest blog posts
