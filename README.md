@@ -2,7 +2,7 @@
 
 **mikelhsia/mikelhsia** 
 
-[![Michael's github stats](https://github-readme-stats.vercel.app/api?username=mikelhsia)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Michael's github stats](https://github-readme-stats.vercel.app/api?username=mikelhsia)](https://github.com/anuraghazra/github-readme-stats)-->
 
 Here are some ideas to get you started:
 
