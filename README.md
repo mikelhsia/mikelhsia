@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 
 
 ### Latest blog posts
+- [【Cont.】 How to save your silver bullets with MACD strategy?](https://mikelhsia.github.io/2020/11/21/2020-11-17-launch-of-macd-strategy/#more)
 - [【How 2】 Vol. 2. How to build an automated stock trading script](https://mikelhsia.github.io/2020/11/10/2020-11-08-macd-strategy-implementation/#more)
 - [【How 2】 Vol. 1. How 2 get all tradable tickers in US markets](https://mikelhsia.github.io/2020/10/19/2020-10-19-get-all-tradable-tickers/#more)
 - [How to save your silver bullets with MACD strategy?](https://mikelhsia.github.io/2020/10/10/2020-10-10-macd-strategy/#more)
