@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--[![Michael's github stats](https://github-readme-stats.vercel.app/api?username=mikelhsia)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Michael's github stats](https://github-readme-stats.vercel.app/api?username=mikelhsia&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas about me:
 
