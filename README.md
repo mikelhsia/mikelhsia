@@ -33,6 +33,7 @@ Here are some ideas about me:
 
 
 ### Latest blog posts
+- [【Factor analysis】 Vol. 1. Introduction the idea of factor analysis](https://mikelhsia.github.io/2021/01/31/2021-01-31-factor-analysis/)
 - [Experiment of Turtle trading strategy](https://mikelhsia.github.io/2020/12/26/20202-12-26-turtle-strategy/)
 - [【Cont.】 MACD strategy follow up report](https://mikelhsia.github.io/2020/12/12/2020-12-12-macd-strategy-follow-up-report/)
 - [【How 2】 Vol. 3. How to produce a quality tradable securities for backtesting](https://mikelhsia.github.io/2020/11/26/2020-11-28-how-to-produce-a-quality-tradable-stock-set-for-backtesting/)
