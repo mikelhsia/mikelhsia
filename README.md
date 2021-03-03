@@ -16,6 +16,13 @@ Here are some ideas about me:
 
 ### Tech Stack
 <div float='left'>
+  
+</div>
+
+<br><br>
+
+
+### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [【Factor analysis】 Vol. 5. Performance analysis](http://mikelhsia.github.io/2021/03/02/2021-03-03-factor-analysis-5/)
 - [【Factor analysis】 Vol. 4. Factor score](http://mikelhsia.github.io/2021/02/27/2021-02-27-factor-analysis-4/)
@@ -28,14 +35,6 @@ Here are some ideas about me:
 - [【How 2】 Vol. 3. How to produce a quality tradable securities for backtesting](http://mikelhsia.github.io/2020/11/26/2020-11-28-how-to-produce-a-quality-tradable-stock-set-for-backtesting/)
 - [【Cont.】 How to save your silver bullets with MACD strategy?](http://mikelhsia.github.io/2020/11/21/2020-11-17-launch-of-macd-strategy/)
 <!-- BLOG-POST-LIST:END -->
-</div>
-
-<br><br>
-
-
-### Latest blog posts
-
-
 ... [more blog posts](https://mikelhsia.github.io/)
 
 
