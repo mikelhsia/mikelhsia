@@ -16,36 +16,15 @@ Here are some ideas about me:
 
 ### Tech Stack
 <div float='left'>
-<img align="left" alt="docker" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="mysql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-
-<img align="left" alt="c" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
-<img align="left" alt="python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-
-<img align="left" alt="hexo" width="30px" src="https://raw.githubusercontent.com/hexojs/logo/master/hexo-logo-avatar.png" />
-<img align="left" alt="html" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="css" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Javascript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="bootstrap" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 </div>
 
 <br><br>
 
 
 ### Latest blog posts
-- [【Factor analysis】 Vol. 5. Performance analysis](https://mikelhsia.github.io/2021/03/02/2021-03-03-factor-analysis-5/)
-- [【Factor analysis】 Vol. 4. Factor score](https://mikelhsia.github.io/2021/02/27/2021-02-27-factor-analysis-4/)
-- [【Factor analysis】 Vol. 3. Construct your own factor](https://mikelhsia.github.io/2021/02/23/2021-02-11-factor-analysis-3/)
-- [【How 2】 Vol. 4. How to produce the S&P 500 Historical Components & Changes](https://mikelhsia.github.io/2021/02/15/2021-02-15-how2-snp500-historic-composition/)
-- [【Factor analysis】 Vol. 1. Introduction the idea of factor analysis](https://mikelhsia.github.io/2021/01/31/2021-01-31-factor-analysis/)
-- [Experiment of Turtle trading strategy](https://mikelhsia.github.io/2020/12/26/20202-12-26-turtle-strategy/)
-- [【Cont.】 MACD strategy follow up report](https://mikelhsia.github.io/2020/12/12/2020-12-12-macd-strategy-follow-up-report/)
-- [【How 2】 Vol. 3. How to produce a quality tradable securities for backtesting](https://mikelhsia.github.io/2020/11/26/2020-11-28-how-to-produce-a-quality-tradable-stock-set-for-backtesting/)
-- [【Cont.】 How to save your silver bullets with MACD strategy?](https://mikelhsia.github.io/2020/11/21/2020-11-17-launch-of-macd-strategy/#more)
-- [【How 2】 Vol. 2. How to build an automated stock trading script](https://mikelhsia.github.io/2020/11/10/2020-11-08-macd-strategy-implementation/#more)
-- [【How 2】 Vol. 1. How 2 get all tradable tickers in US markets](https://mikelhsia.github.io/2020/10/19/2020-10-19-get-all-tradable-tickers/#more)
-- [How to save your silver bullets with MACD strategy?](https://mikelhsia.github.io/2020/10/10/2020-10-10-macd-strategy/#more)
-- [An investment strategy that takes you three days a year](https://mikelhsia.github.io/2020/08/21/2020-08-21-magic-formula-vs-Acquirer-Multiples/#more)
+
 
 ... [more blog posts](https://mikelhsia.github.io/)
 
