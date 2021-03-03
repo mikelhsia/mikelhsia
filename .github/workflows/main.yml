@@ -30,8 +30,9 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-        # comma-separated list of RSS feed urls
-        feed_list: "https://mikelhsia.github.io/atom.xml"
+          # comma-separated list of RSS feed urls
+          feed_list: "https://mikelhsia.github.io/atom.xml"
+          max_post_count: 10
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
