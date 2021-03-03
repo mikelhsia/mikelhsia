@@ -33,6 +33,10 @@ Here are some ideas about me:
 
 
 ### Latest blog posts
+- [【Factor analysis】 Vol. 5. Performance analysis](https://mikelhsia.github.io/2021/03/02/2021-03-03-factor-analysis-5/)
+- [【Factor analysis】 Vol. 4. Factor score](https://mikelhsia.github.io/2021/02/27/2021-02-27-factor-analysis-4/)
+- [【Factor analysis】 Vol. 3. Construct your own factor](https://mikelhsia.github.io/2021/02/23/2021-02-11-factor-analysis-3/)
+- [【How 2】 Vol. 4. How to produce the S&P 500 Historical Components & Changes](https://mikelhsia.github.io/2021/02/15/2021-02-15-how2-snp500-historic-composition/)
 - [【Factor analysis】 Vol. 1. Introduction the idea of factor analysis](https://mikelhsia.github.io/2021/01/31/2021-01-31-factor-analysis/)
 - [Experiment of Turtle trading strategy](https://mikelhsia.github.io/2020/12/26/20202-12-26-turtle-strategy/)
 - [【Cont.】 MACD strategy follow up report](https://mikelhsia.github.io/2020/12/12/2020-12-12-macd-strategy-follow-up-report/)
