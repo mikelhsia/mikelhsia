@@ -33,6 +33,7 @@ Here are some ideas about me:
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [【Machine Learning】 10 minutes to learn what I know about machine learning in quantitative trading](http://mikelhsia.github.io/2021/04/22/2021-04-22-machine-learning-intro/)
 - [My 2020 Annual Transcript](http://mikelhsia.github.io/2021/04/20/2021-04-20-annual-summary/)
 - [【Factor analysis】 Vol. 5. Performance analysis](http://mikelhsia.github.io/2021/03/02/2021-03-03-factor-analysis-5/)
 - [【Factor analysis】 Vol. 4. Factor score](http://mikelhsia.github.io/2021/02/27/2021-02-27-factor-analysis-4/)
@@ -42,7 +43,6 @@ Here are some ideas about me:
 - [【Factor analysis】 Vol. 1. Introduction the idea of factor analysis](http://mikelhsia.github.io/2021/01/31/2021-01-31-factor-analysis/)
 - [Experiment of Turtle trading strategy](http://mikelhsia.github.io/2020/12/26/2020-12-26-turtle-strategy/)
 - [【Cont.】 MACD strategy follow up report](http://mikelhsia.github.io/2020/12/12/2020-12-12-macd-strategy-follow-up-report/)
-- [【How 2】 Vol. 3. How to produce a quality tradable securities for backtesting](http://mikelhsia.github.io/2020/11/26/2020-11-28-how-to-produce-a-quality-tradable-stock-set-for-backtesting/)
 <!-- BLOG-POST-LIST:END -->
 ... [more blog posts](https://mikelhsia.github.io/)
 
