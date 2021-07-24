@@ -33,6 +33,7 @@ Here are some ideas about me:
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Optimize your MACD strategies with advanced indicators](http://mikelhsia.github.io/2021/07/19/2021-07-20-advanced-macd-strategy/)
 - [Step up your game in Quant trading - Backtest platforms QuantConnect v.s. Quantopian  review](http://mikelhsia.github.io/2021/07/18/2021-07-05-pros-cons-of-quantconnect/)
 - [【Machine Learning】 Part III - 5 myths about practicing quant trading with machine learning](http://mikelhsia.github.io/2021/06/14/2021-06-14-N-insights-found-while-implementing-machine-learning-trading-algorithm/)
 - [【Machine Learning】 Part II - How to build a machine learning boilerplate?](http://mikelhsia.github.io/2021/05/10/2021-05-14-machine-learning-prototype/)
@@ -42,7 +43,6 @@ Here are some ideas about me:
 - [【Factor analysis】 Vol. 4. Factor score](http://mikelhsia.github.io/2021/02/27/2021-02-27-factor-analysis-4/)
 - [【Factor analysis】 Vol. 3. Construct your own factor](http://mikelhsia.github.io/2021/02/23/2021-02-11-factor-analysis-3/)
 - [【How 2】 Vol. 4. How to produce the S&P 500 Historical Components & Changes](http://mikelhsia.github.io/2021/02/15/2021-02-15-how2-snp500-historic-composition/)
-- [【Factor analysis】 Vol. 2. Get ready - preparing and cleaning data](http://mikelhsia.github.io/2021/02/08/2021-02-03-factor-analysis-factors/)
 <!-- BLOG-POST-LIST:END -->
 ... [more blog posts](https://mikelhsia.github.io/)
 
