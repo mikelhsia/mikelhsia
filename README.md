@@ -33,8 +33,9 @@ Here are some ideas about me:
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [【Pair Trading】5 in-depth analysis of distance approach in pair trading](http://mikelhsia.github.io/2021/08/30/2021-08-30-pair-trading-distance-approach/)
-- [【Pair Trading】Introduction to pair trading strategy](http://mikelhsia.github.io/2021/08/02/2021-08-12-pair-trading/)
+- [【Pair Trading】Part 3. The strategy that helps minimize your portfolio risk](http://mikelhsia.github.io/2021/09/30/2021-10-05-pair-trading-market-neutral/)
+- [【Pair Trading】Part 2. 5 in-depth analysis of distance approach in pair trading](http://mikelhsia.github.io/2021/08/30/2021-08-30-pair-trading-distance-approach/)
+- [【Pair Trading】Part 1. Introduction to pair trading strategy](http://mikelhsia.github.io/2021/08/02/2021-08-12-pair-trading/)
 - [Optimize your MACD strategies with advanced indicators](http://mikelhsia.github.io/2021/07/19/2021-07-20-advanced-macd-strategy/)
 - [Step up your game in Quant trading - Backtest platforms QuantConnect v.s. Quantopian  review](http://mikelhsia.github.io/2021/07/18/2021-07-05-pros-cons-of-quantconnect/)
 - [【Machine Learning】 Part III - 5 myths about practicing quant trading with machine learning](http://mikelhsia.github.io/2021/06/14/2021-06-14-N-insights-found-while-implementing-machine-learning-trading-algorithm/)
@@ -42,7 +43,6 @@ Here are some ideas about me:
 - [【Machine Learning】 Part I - 10 minutes to learn what I know about machine learning in quantitative trading](http://mikelhsia.github.io/2021/04/22/2021-04-22-machine-learning-intro/)
 - [My 2020 Annual Transcript](http://mikelhsia.github.io/2021/04/20/2021-04-20-annual-summary/)
 - [【Factor analysis】 Vol. 5. Performance analysis](http://mikelhsia.github.io/2021/03/02/2021-03-03-factor-analysis-5/)
-- [【Factor analysis】 Vol. 4. Factor score](http://mikelhsia.github.io/2021/02/27/2021-02-27-factor-analysis-4/)
 <!-- BLOG-POST-LIST:END -->
 ... [more blog posts](https://mikelhsia.github.io/)
 
