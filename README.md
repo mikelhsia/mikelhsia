@@ -33,6 +33,7 @@ Here are some ideas about me:
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Is my trading strategy one step away from making a fortune? - From research to backtest](http://mikelhsia.github.io/2021/10/22/2021-10-23-rebalancing-strategy/)
 - [【Pair Trading】Part 3. The strategy that helps minimize your portfolio risk](http://mikelhsia.github.io/2021/09/30/2021-10-05-pair-trading-market-neutral/)
 - [【Pair Trading】Part 2. 5 in-depth analysis of distance approach in pair trading](http://mikelhsia.github.io/2021/08/30/2021-08-30-pair-trading-distance-approach/)
 - [【Pair Trading】Part 1. Introduction to pair trading strategy](http://mikelhsia.github.io/2021/08/02/2021-08-12-pair-trading/)
@@ -42,7 +43,6 @@ Here are some ideas about me:
 - [【Machine Learning】 Part II - How to build a machine learning boilerplate?](http://mikelhsia.github.io/2021/05/10/2021-05-14-machine-learning-prototype/)
 - [【Machine Learning】 Part I - 10 minutes to learn what I know about machine learning in quantitative trading](http://mikelhsia.github.io/2021/04/22/2021-04-22-machine-learning-intro/)
 - [My 2020 Annual Transcript](http://mikelhsia.github.io/2021/04/20/2021-04-20-annual-summary/)
-- [【Factor analysis】 Vol. 5. Performance analysis](http://mikelhsia.github.io/2021/03/02/2021-03-03-factor-analysis-5/)
 <!-- BLOG-POST-LIST:END -->
 ... [more blog posts](https://mikelhsia.github.io/)
 
