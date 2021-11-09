@@ -33,6 +33,7 @@ Here are some ideas about me:
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Four strategies of using RSI indicator to better time your market entry](http://mikelhsia.github.io/2021/11/03/2021-11-06-rsi-indicator/)
 - [Is my trading strategy one step away from making a fortune? - From research to backtest](http://mikelhsia.github.io/2021/10/22/2021-10-23-rebalancing-strategy/)
 - [【Pair Trading】Part 3. The strategy that helps minimize your portfolio risk](http://mikelhsia.github.io/2021/09/30/2021-10-05-pair-trading-market-neutral/)
 - [【Pair Trading】Part 2. 5 in-depth analysis of distance approach in pair trading](http://mikelhsia.github.io/2021/08/30/2021-08-30-pair-trading-distance-approach/)
@@ -42,7 +43,6 @@ Here are some ideas about me:
 - [【Machine Learning】 Part III - 5 myths about practicing quant trading with machine learning](http://mikelhsia.github.io/2021/06/14/2021-06-14-N-insights-found-while-implementing-machine-learning-trading-algorithm/)
 - [【Machine Learning】 Part II - How to build a machine learning boilerplate?](http://mikelhsia.github.io/2021/05/10/2021-05-14-machine-learning-prototype/)
 - [【Machine Learning】 Part I - 10 minutes to learn what I know about machine learning in quantitative trading](http://mikelhsia.github.io/2021/04/22/2021-04-22-machine-learning-intro/)
-- [My 2020 Annual Transcript](http://mikelhsia.github.io/2021/04/20/2021-04-20-annual-summary/)
 <!-- BLOG-POST-LIST:END -->
 ... [more blog posts](https://mikelhsia.github.io/)
 
