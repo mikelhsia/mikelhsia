@@ -33,6 +33,7 @@ Here are some ideas about me:
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [【Machine Learning】 Part IV - How to analyze how good my machine learning strategy is?](http://mikelhsia.github.io/2022/02/19/2022-02-17-machine-learning-performance-evaluation/)
 - [Quants! Learn from your foe - &quot;Value Investing&quot;](http://mikelhsia.github.io/2022/01/03/2022-01-10-value-investing-part1/)
 - [Four strategies of using RSI indicator to better time your market entry](http://mikelhsia.github.io/2021/11/03/2021-11-06-rsi-indicator/)
 - [Is my trading strategy one step away from making a fortune? - From research to backtest](http://mikelhsia.github.io/2021/10/22/2021-10-23-rebalancing-strategy/)
@@ -42,7 +43,6 @@ Here are some ideas about me:
 - [Optimize your MACD strategies with advanced indicators](http://mikelhsia.github.io/2021/07/19/2021-07-20-advanced-macd-strategy/)
 - [Step up your game in Quant trading - Backtest platforms QuantConnect v.s. Quantopian  review](http://mikelhsia.github.io/2021/07/18/2021-07-05-pros-cons-of-quantconnect/)
 - [【Machine Learning】 Part III - 5 myths about practicing quant trading with machine learning](http://mikelhsia.github.io/2021/06/14/2021-06-14-N-insights-found-while-implementing-machine-learning-trading-algorithm/)
-- [【Machine Learning】 Part II - How to build a machine learning boilerplate?](http://mikelhsia.github.io/2021/05/10/2021-05-14-machine-learning-prototype/)
 <!-- BLOG-POST-LIST:END -->
 ... [more blog posts](https://mikelhsia.github.io/)
 
