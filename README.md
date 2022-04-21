@@ -33,6 +33,7 @@ Here are some ideas about me:
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Looking for no-loss trading strategy? Here&#39;s the strategy that you should look at.](http://mikelhsia.github.io/2022/04/18/2022-04-20-forex-grid-trading-system/)
 - [Yes or No? Adopting the Supertrend indicator in your trading strategies?](http://mikelhsia.github.io/2022/03/18/2022-03-22-supertrend-indicator/)
 - [【Machine Learning】 Part IV - How to analyze how good my machine learning strategy is?](http://mikelhsia.github.io/2022/02/19/2022-02-17-machine-learning-performance-evaluation/)
 - [Quants! Learn from your foe - &quot;Value Investing&quot;](http://mikelhsia.github.io/2022/01/03/2022-01-10-value-investing-part1/)
@@ -42,7 +43,6 @@ Here are some ideas about me:
 - [【Pair Trading】Part 2. 5 in-depth analysis of distance approach in pair trading](http://mikelhsia.github.io/2021/08/30/2021-08-30-pair-trading-distance-approach/)
 - [【Pair Trading】Part 1. Introduction to pair trading strategy](http://mikelhsia.github.io/2021/08/02/2021-08-12-pair-trading/)
 - [Optimize your MACD strategies with advanced indicators](http://mikelhsia.github.io/2021/07/19/2021-07-20-advanced-macd-strategy/)
-- [Step up your game in Quant trading - Backtest platforms QuantConnect v.s. Quantopian  review](http://mikelhsia.github.io/2021/07/18/2021-07-05-pros-cons-of-quantconnect/)
 <!-- BLOG-POST-LIST:END -->
 ... [more blog posts](https://mikelhsia.github.io/)
 
