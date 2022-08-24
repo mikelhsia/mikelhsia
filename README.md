@@ -34,16 +34,16 @@ Here are some ideas about me:
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [【Machine Learning】 Part V - Raise your trading win rate through feature engineering](http://mikelhsia.github.io/2022/06/10/2022-06-10-adcanced-optimization/)
+- [【ML algo trading】 VI - Employ the power of ensemble learning to increase your portfolio return](http://mikelhsia.github.io/2022/08/20/2022-08-20-votingclassifier/)
+- [【ML algo trading】 V - Raise your trading win rate through feature engineering](http://mikelhsia.github.io/2022/06/10/2022-06-10-adcanced-optimization/)
 - [Looking for no-loss trading strategy? Here&#39;s the strategy that you should look at.](http://mikelhsia.github.io/2022/04/18/2022-04-20-forex-grid-trading-system/)
 - [Yes or No? Adopting the Supertrend indicator in your trading strategies?](http://mikelhsia.github.io/2022/03/18/2022-03-22-supertrend-indicator/)
-- [【Machine Learning】 Part IV - How to analyze how good my machine learning strategy is?](http://mikelhsia.github.io/2022/02/19/2022-02-17-machine-learning-performance-evaluation/)
+- [【ML algo trading】 IV - How to analyze how good my machine learning strategy is?](http://mikelhsia.github.io/2022/02/19/2022-02-17-machine-learning-performance-evaluation/)
 - [Quants! Learn from your foe - &quot;Value Investing&quot;](http://mikelhsia.github.io/2022/01/03/2022-01-10-value-investing-part1/)
 - [Four strategies of using RSI indicator to better time your market entry](http://mikelhsia.github.io/2021/11/03/2021-11-06-rsi-indicator/)
 - [Is my trading strategy one step away from making a fortune? - From research to backtest](http://mikelhsia.github.io/2021/10/22/2021-10-23-rebalancing-strategy/)
 - [【Pair Trading】Part 3. The strategy that helps minimize your portfolio risk](http://mikelhsia.github.io/2021/09/30/2021-10-05-pair-trading-market-neutral/)
 - [【Pair Trading】Part 2. 5 in-depth analysis of distance approach in pair trading](http://mikelhsia.github.io/2021/08/30/2021-08-30-pair-trading-distance-approach/)
-- [【Pair Trading】Part 1. Introduction to pair trading strategy](http://mikelhsia.github.io/2021/08/02/2021-08-12-pair-trading/)
 <!-- BLOG-POST-LIST:END -->
 ... [more blog posts](https://mikelhsia.github.io/)
 
