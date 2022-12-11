@@ -34,7 +34,8 @@ Here are some ideas about me:
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [【Momentum Trading】The shield of your trading strategy - CPPI &lpar;Constant Proportion Portfolio Insurance&rpar;](http://mikelhsia.github.io/2022/11/04/2022-11-10-advanced-cppi-strategy/)
+- [【How 2】Set Up Trading API Template In Python - Connecting My Trading Strategies To Interactive Brokers](http://mikelhsia.github.io/2022/12/12/2022-12-10-IBKR-Broker/)
+- [【Momentum Trading】A Defense Trading Strategy That Works - CPPI &lpar;Constant Proportion Portfolio Insurance&rpar;](http://mikelhsia.github.io/2022/11/04/2022-11-10-advanced-cppi-strategy/)
 - [【Momentum Trading】Use machine learning to boost your day trading skill - meta-labeling](http://mikelhsia.github.io/2022/10/21/2022-10-15-meta-label/)
 - [【ML algo trading】 VI - Employ the power of ensemble learning to increase your portfolio return](http://mikelhsia.github.io/2022/08/20/2022-08-20-votingclassifier/)
 - [【ML algo trading】 V - Raise your trading win rate through feature engineering](http://mikelhsia.github.io/2022/06/10/2022-06-10-adcanced-optimization/)
@@ -43,7 +44,6 @@ Here are some ideas about me:
 - [【ML algo trading】 IV - How to analyze how good my machine learning strategy is?](http://mikelhsia.github.io/2022/02/19/2022-02-17-machine-learning-performance-evaluation/)
 - [Quants! Learn from your foe - &quot;Value Investing&quot;](http://mikelhsia.github.io/2022/01/03/2022-01-10-value-investing-part1/)
 - [Four strategies of using RSI indicator to better time your market entry](http://mikelhsia.github.io/2021/11/03/2021-11-06-rsi-indicator/)
-- [Is my trading strategy one step away from making a fortune? - From research to backtest](http://mikelhsia.github.io/2021/10/22/2021-10-23-rebalancing-strategy/)
 <!-- BLOG-POST-LIST:END -->
 ... [more blog posts](https://mikelhsia.github.io/)
 
