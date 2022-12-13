@@ -34,7 +34,8 @@ Here are some ideas about me:
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [【How 2】Set Up Trading API Template In Python - Connecting My Trading Strategies To Interactive Brokers](http://mikelhsia.github.io/2022/12/12/2022-12-10-IBKR-Broker/)
+- [【How 2】 Set Up Trading API Template In Python - Connecting My Trading Strategies To Interactive Brokers Part II](http://mikelhsia.github.io/2022/12/12/2022-12-16-IBKR-broker-2/)
+- [【How 2】Set Up Trading API Template In Python - Connecting My Trading Strategies To Interactive Brokers](http://mikelhsia.github.io/2022/12/07/2022-12-10-IBKR-Broker/)
 - [【Momentum Trading】A Defense Trading Strategy That Works - CPPI &lpar;Constant Proportion Portfolio Insurance&rpar;](http://mikelhsia.github.io/2022/11/04/2022-11-10-advanced-cppi-strategy/)
 - [【Momentum Trading】Use machine learning to boost your day trading skill - meta-labeling](http://mikelhsia.github.io/2022/10/21/2022-10-15-meta-label/)
 - [【ML algo trading】 VI - Employ the power of ensemble learning to increase your portfolio return](http://mikelhsia.github.io/2022/08/20/2022-08-20-votingclassifier/)
@@ -43,7 +44,6 @@ Here are some ideas about me:
 - [Yes or No? Adopting the Supertrend indicator in your trading strategies?](http://mikelhsia.github.io/2022/03/18/2022-03-22-supertrend-indicator/)
 - [【ML algo trading】 IV - How to analyze how good my machine learning strategy is?](http://mikelhsia.github.io/2022/02/19/2022-02-17-machine-learning-performance-evaluation/)
 - [Quants! Learn from your foe - &quot;Value Investing&quot;](http://mikelhsia.github.io/2022/01/03/2022-01-10-value-investing-part1/)
-- [Four strategies of using RSI indicator to better time your market entry](http://mikelhsia.github.io/2021/11/03/2021-11-06-rsi-indicator/)
 <!-- BLOG-POST-LIST:END -->
 ... [more blog posts](https://mikelhsia.github.io/)
 
