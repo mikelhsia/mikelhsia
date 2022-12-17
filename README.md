@@ -34,6 +34,7 @@ Here are some ideas about me:
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [【How 2】 Set Up Trading API Template In Python - Q&amp;A](http://mikelhsia.github.io/2022/12/15/2022-12-17-IBKR-broker-4/)
 - [【How 2】 Set Up Trading API Template In Python - Build Local Storage For Storing Trades](http://mikelhsia.github.io/2022/12/14/2022-12-17-IBKR-broker-3/)
 - [【How 2】 Set Up Trading API Template In Python - Placing orders with Interactive Brokers](http://mikelhsia.github.io/2022/12/12/2022-12-16-IBKR-broker-2/)
 - [【How 2】Set Up Trading API Template In Python - Connecting My Trading Strategies To Interactive Brokers](http://mikelhsia.github.io/2022/12/07/2022-12-10-IBKR-Broker/)
@@ -43,7 +44,6 @@ Here are some ideas about me:
 - [【ML algo trading】 V - Raise your trading win rate through feature engineering](http://mikelhsia.github.io/2022/06/10/2022-06-10-adcanced-optimization/)
 - [Looking for no-loss trading strategy? Here&#39;s the strategy that you should look at.](http://mikelhsia.github.io/2022/04/18/2022-04-20-forex-grid-trading-system/)
 - [Yes or No? Adopting the Supertrend indicator in your trading strategies?](http://mikelhsia.github.io/2022/03/18/2022-03-22-supertrend-indicator/)
-- [【ML algo trading】 IV - How to analyze how good my machine learning strategy is?](http://mikelhsia.github.io/2022/02/19/2022-02-17-machine-learning-performance-evaluation/)
 <!-- BLOG-POST-LIST:END -->
 ... [more blog posts](https://mikelhsia.github.io/)
 
