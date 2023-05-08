@@ -34,6 +34,7 @@ Here are some ideas about me:
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [【Pair Trading】 Complete Guide to Backtest Cointegration Pair Trading Strategy](http://mikelhsia.github.io/2023/04/26/2023-05-01-pair-trading-cointegration-part2/)
 - [【Pair Trading】 Cointegration Test - A Key to Find High Probability Trading Strategy](http://mikelhsia.github.io/2023/02/25/2023-02-25-pair-trading-cointegration-part1/)
 - [【How 2】 Set Up Trading API Template In Python - Q&amp;A](http://mikelhsia.github.io/2022/12/15/2022-12-17-IBKR-broker-4/)
 - [【How 2】 Set Up Trading API Template In Python - Build Local Storage For Storing Trades](http://mikelhsia.github.io/2022/12/14/2022-12-17-IBKR-broker-3/)
@@ -43,7 +44,6 @@ Here are some ideas about me:
 - [【Momentum Trading】Use machine learning to boost your day trading skill - meta-labeling](http://mikelhsia.github.io/2022/10/21/2022-10-15-meta-label/)
 - [【ML algo trading】 VI - Employ the power of ensemble learning to increase your portfolio return](http://mikelhsia.github.io/2022/08/20/2022-08-20-votingclassifier/)
 - [【ML algo trading】 V - Raise your trading win rate through feature engineering](http://mikelhsia.github.io/2022/06/10/2022-06-10-adcanced-optimization/)
-- [Looking for no-loss trading strategy? Here&#39;s the strategy that you should look at.](http://mikelhsia.github.io/2022/04/18/2022-04-20-forex-grid-trading-system/)
 <!-- BLOG-POST-LIST:END -->
 ... [more blog posts](https://mikelhsia.github.io/)
 
