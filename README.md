@@ -34,6 +34,7 @@ Here are some ideas about me:
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Testing the Waters - Backtesting HAA and Its Variations Towards Success](http://mikelhsia.github.io/2024/04/09/2024-03-25-hybrid-asset-allocation/)
 - [From Theory to Profits - Elevating the Buy-on-Gap Strategy with Advanced Techniques](http://mikelhsia.github.io/2024/01/18/2024-01-18-Revisit-Buy-On-Gao-Strategy/)
 - [Sentiment analysis lesson 101 and hands-on practice session](http://mikelhsia.github.io/2023/11/02/2023-11-03-sentiment-analysis/)
 - [【How 2】 Upgrade your backtesting arsenal - trading multiple stocks with &quot;backtrader&quot;](http://mikelhsia.github.io/2023/08/31/2023-08-31-backtrader-multistocks-backtesting/)
@@ -43,7 +44,6 @@ Here are some ideas about me:
 - [【How 2】 Set Up Trading API Template In Python - Build Local Storage For Storing Trades](http://mikelhsia.github.io/2022/12/14/2022-12-17-IBKR-broker-3/)
 - [【How 2】 Set Up Trading API Template In Python - Placing orders with Interactive Brokers](http://mikelhsia.github.io/2022/12/12/2022-12-16-IBKR-broker-2/)
 - [【How 2】Set Up Trading API Template In Python - Connecting My Trading Strategies To Interactive Brokers](http://mikelhsia.github.io/2022/12/07/2022-12-10-IBKR-Broker/)
-- [【Momentum Trading】A Defense Trading Strategy That Works - CPPI &lpar;Constant Proportion Portfolio Insurance&rpar;](http://mikelhsia.github.io/2022/11/04/2022-11-10-advanced-cppi-strategy/)
 <!-- BLOG-POST-LIST:END -->
 ... [more blog posts](https://mikelhsia.github.io/)
 
