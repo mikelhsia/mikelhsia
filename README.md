@@ -34,6 +34,7 @@ Here are some ideas about me:
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [【How 2】Breaking Free! Use Docker to Create Hands-Off Interactive Broker TWS Managing Experience](http://mikelhsia.github.io/2024/04/23/2024-04-24-spin-up-docker-container-for-your-tws/)
 - [Testing the Waters - Backtesting HAA and Its Variations Towards Success](http://mikelhsia.github.io/2024/04/09/2024-03-25-hybrid-asset-allocation/)
 - [From Theory to Profits - Elevating the Buy-on-Gap Strategy with Advanced Techniques](http://mikelhsia.github.io/2024/01/18/2024-01-18-Revisit-Buy-On-Gao-Strategy/)
 - [Sentiment analysis lesson 101 and hands-on practice session](http://mikelhsia.github.io/2023/11/02/2023-11-03-sentiment-analysis/)
@@ -43,7 +44,6 @@ Here are some ideas about me:
 - [【How 2】 Set Up Trading API Template In Python - Q&amp;A](http://mikelhsia.github.io/2022/12/15/2022-12-17-IBKR-broker-4/)
 - [【How 2】 Set Up Trading API Template In Python - Build Local Storage For Storing Trades](http://mikelhsia.github.io/2022/12/14/2022-12-17-IBKR-broker-3/)
 - [【How 2】 Set Up Trading API Template In Python - Placing orders with Interactive Brokers](http://mikelhsia.github.io/2022/12/12/2022-12-16-IBKR-broker-2/)
-- [【How 2】Set Up Trading API Template In Python - Connecting My Trading Strategies To Interactive Brokers](http://mikelhsia.github.io/2022/12/07/2022-12-10-IBKR-Broker/)
 <!-- BLOG-POST-LIST:END -->
 ... [more blog posts](https://mikelhsia.github.io/)
 
