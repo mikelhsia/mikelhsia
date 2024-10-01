@@ -34,6 +34,7 @@ Here are some ideas about me:
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Supercharge Your Trading Strategy - Bull? Bear? Here’s How to Profit](http://mikelhsia.github.io/2024/09/23/2024-09-30-market-indicator/)
 - [【ML algo trading】One Pitfall You Definitely Need to Avoid in Feature Engineering](http://mikelhsia.github.io/2024/06/28/2024-06-28-why-fit-and-transform/)
 - [【How 2】A Productive Way to Manage OAuth 2.0 Tokens](http://mikelhsia.github.io/2024/06/24/2024-06-24-test-oauth-via-postman/)
 - [【How 2】Breaking Free! Use Docker to Create Hands-Off Interactive Broker TWS Managing Experience](http://mikelhsia.github.io/2024/04/23/2024-04-24-spin-up-docker-container-for-your-tws/)
@@ -43,7 +44,6 @@ Here are some ideas about me:
 - [【How 2】 Upgrade your backtesting arsenal - trading multiple stocks with &quot;backtrader&quot;](http://mikelhsia.github.io/2023/08/31/2023-08-31-backtrader-multistocks-backtesting/)
 - [【Pair Trading】 Complete Guide to Backtest Cointegration Pair Trading Strategy](http://mikelhsia.github.io/2023/04/26/2023-05-01-pair-trading-cointegration-part2/)
 - [【Pair Trading】 Cointegration Test - A Key to Find High Probability Trading Strategy](http://mikelhsia.github.io/2023/02/25/2023-02-25-pair-trading-cointegration-part1/)
-- [【How 2】 Set Up Trading API Template In Python - Q&amp;A](http://mikelhsia.github.io/2022/12/15/2022-12-17-IBKR-broker-4/)
 <!-- BLOG-POST-LIST:END -->
 ... [more blog posts](https://mikelhsia.github.io/)
 
