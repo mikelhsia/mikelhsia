@@ -34,6 +34,7 @@ Here are some ideas about me:
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Beyond Traditional Grid Trading - Introducing A New Type of Grid Trading System](http://mikelhsia.github.io/2024/11/11/2024-11-11-new-type-of-grid-trading-system/)
 - [【How 2】Explain Bayes&#39; Theorem Without Using Big Words](http://mikelhsia.github.io/2024/10/04/2024-10-07-explain-bayes-theorm-without-using-big-words/)
 - [Supercharge Your Trading Strategy - Bull? Bear? Here’s How to Profit](http://mikelhsia.github.io/2024/09/23/2024-09-30-market-indicator/)
 - [【ML algo trading】One Pitfall You Definitely Need to Avoid in Feature Engineering](http://mikelhsia.github.io/2024/06/28/2024-06-28-why-fit-and-transform/)
@@ -43,7 +44,6 @@ Here are some ideas about me:
 - [From Theory to Profits - Elevating the Buy-on-Gap Strategy with Advanced Techniques](http://mikelhsia.github.io/2024/01/18/2024-01-18-Revisit-Buy-On-Gao-Strategy/)
 - [Sentiment analysis lesson 101 and hands-on practice session](http://mikelhsia.github.io/2023/11/02/2023-11-03-sentiment-analysis/)
 - [【How 2】 Upgrade your backtesting arsenal - trading multiple stocks with &quot;backtrader&quot;](http://mikelhsia.github.io/2023/08/31/2023-08-31-backtrader-multistocks-backtesting/)
-- [【Pair Trading】 Complete Guide to Backtest Cointegration Pair Trading Strategy](http://mikelhsia.github.io/2023/04/26/2023-05-01-pair-trading-cointegration-part2/)
 <!-- BLOG-POST-LIST:END -->
 ... [more blog posts](https://mikelhsia.github.io/)
 
